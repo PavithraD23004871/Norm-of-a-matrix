@@ -34,15 +34,19 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,np.inf)
 norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix)
+
 ## Output:
 ### 1-Norm of a Matrix
-![image](https://github.com/PavithraD23004871/Norm-of-a-matrix/assets/138955967/4c58ce96-3cef-4371-b1c5-791bc7bc442b)
+![Screenshot 2023-12-28 131359](https://github.com/PavithraD23004871/Norm-of-a-matrix/assets/138955967/6556811a-5fef-40d6-8c0b-ca25c2260a6b)
+
 
 ### 2-Norm of a Matrix
-![image](https://github.com/PavithraD23004871/Norm-of-a-matrix/assets/138955967/111a26ec-fc8f-4750-8985-02ed0664e940)
+
+![Screenshot 2023-12-28 131421](https://github.com/PavithraD23004871/Norm-of-a-matrix/assets/138955967/9cad3e64-d57b-4dd2-99aa-246948316c7b)
 
 ### Infinity Norm of a Matrix
-![image](https://github.com/PavithraD23004871/Norm-of-a-matrix/assets/138955967/5258c355-6e2c-45fd-a60f-97d9dfb2ee35)
+
+![Screenshot 2023-12-28 131434](https://github.com/PavithraD23004871/Norm-of-a-matrix/assets/138955967/55b25c23-0f2a-4fca-8a8a-a8639907b217)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
