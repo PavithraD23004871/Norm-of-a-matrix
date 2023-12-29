@@ -9,7 +9,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
     2. Find the 2-norm of the matrix using np.linalg.norm()
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
-```Python
+```
 # Register No:23004871
 # Developed By:pavitra
 # 1-Norm of a Matrix
@@ -34,7 +34,7 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,np.inf)
 norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix)
-
+```
 ## Output:
 ### 1-Norm of a Matrix
 ![Screenshot 2023-12-28 131359](https://github.com/PavithraD23004871/Norm-of-a-matrix/assets/138955967/6556811a-5fef-40d6-8c0b-ca25c2260a6b)
